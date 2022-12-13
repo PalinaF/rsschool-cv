@@ -11,7 +11,8 @@
 * Belarusian State Medical University (Dental Faculty)
 ---
 ##### Languages
-* Russian - native speaker
+* Russian - native speaker 
+* Belarussian - native speaker
 * German - Goethe-Zertifikat B2
 * English - A2
 * Polish - B1
